@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praful Mishra</h1>
+<h1 align="center">Hi 👋, I'm Prafful Mishra</h1>
 
 <h3 align="center">Aspiring DevOps & Cloud Engineer | Learning by Building 🚀</h3>
 
