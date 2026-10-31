@@ -63,16 +63,6 @@
 
 *Visit my repositories to explore my projects and implementations.*
 
-### 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=praful0419&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praful0419&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
 ---
 
 ### 🤝 Connect With Me
