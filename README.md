@@ -22,6 +22,49 @@
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,ansible,linux,git,github,bash,python,grafana,prometheus&perline=7" alt="DevOps Skills" />
 </p>
 
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,jenkins,docker,kubernetes,terraform,ansible,bash,python,postgres,mongodb&perline=6" alt="Technologies and Tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+</p>
+
+---
+
+## 🎯 Areas of Interest
+
+<table>
+  <tr>
+    <td>☁️ <b>DevOps & Cloud Engineering</b></td>
+    <td>🔄 <b>CI/CD Pipelines</b></td>
+  </tr>
+  <tr>
+    <td>🏗️ <b>Infrastructure as Code</b></td>
+    <td>🐳 <b>Containerization</b></td>
+  </tr>
+  <tr>
+    <td>⚙️ <b>Kubernetes & Container Orchestration</b></td>
+    <td>🔧 <b>Infrastructure Automation</b></td>
+  </tr>
+  <tr>
+    <td>📦 <b>Configuration Management</b></td>
+    <td>🐧 <b>Linux Administration</b></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">🐍 <b>Shell & Python Automation</b></td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <i>⚡ Automating Infrastructure | Building Pipelines | Exploring Cloud Technologies</i>
+</p>
+
 ### 🚀 Featured Projects
 
 - **CI/CD Pipeline:** Jenkins, Docker and AWS integration.
